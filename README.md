@@ -1,6 +1,5 @@
 # Portfolio-Risk-Analysis
 This notebook implements a multi-factor Value-at-Risk (VaR) framework for a portfolio consisting of equity positions and an interest rate swap. Risk is decomposed using Principal Component Analysis (PCA) on the SOFR curve, and VaR is estimated under three methods: Parametric, Monte Carlo, and Historical Simulation. Results are backtested against the Basel III traffic-light framework.This notebook implements a multi-factor Value-at-Risk (VaR) framework for a portfolio consisting of equity positions and an interest rate swap. Risk is decomposed using Principal Component Analysis (PCA) on the SOFR curve, and VaR is estimated under three methods: Parametric, Monte Carlo, and Historical Simulation. Results are backtested against the Basel III traffic-light framework.
-Methodology
 
 1. SOFR Curve PCA
 
